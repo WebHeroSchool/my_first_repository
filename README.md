@@ -1,1 +1,3 @@
-first words in my note
+first words in my note 
+
+new words in my note
